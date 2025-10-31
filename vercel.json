@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/" }
+  ],
+    "env": {
+    "VITE_API_BASE_URL": "https://genox-backend.onrender.com"
+  }
+}
